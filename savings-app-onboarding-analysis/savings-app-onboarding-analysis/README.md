@@ -13,8 +13,8 @@
 ## 2. Executive Summary
 Out of 49,275 real signups, fewer than half (44.4%) finish identity verification (KYC), and only 29.1% add money to their wallet. KYC is where the app loses the most people: about 16,500 users start it and never finish. Android users struggle the most, with 53.6% completing KYC compared with 63.1% on iOS.
 The team tested a redesigned onboarding flow, and it worked. It raised KYC completion by about 11 percentage points (taking into account that the two test groups had different Android and iOS mixes), and the result is statistically solid (p < 0.001), so it is very unlikely to be chance. It also raised the share of users who fund their wallet within 7 days by 4.8 percentage points. The biggest improvement was on Android, at +16.3 points.
-**Recommendation: ship the new onboarding to all users, starting with Android.** Separately, paid social supplies 40% of signups but has the weakest activation (24.0%) and 30-day retention (10.4%), against 38.1% and 20.8% for referral.
-
+**Recommendation: roll out the new onboarding to all users, starting with Android.**
+Paid social also needs a closer look. It brings in the most signups (40%), but those users are the least likely to stick around. Only 24.0% fund their wallet within a week and just 10.4% are still active after 30 days. Referral users do much better, at 38.1% and 20.8%.
 ## 3. Business Problem
 **Stakeholder:** Head of Product at a mobile savings and wallet app.
 
