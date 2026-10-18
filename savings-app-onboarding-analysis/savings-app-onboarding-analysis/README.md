@@ -8,7 +8,7 @@
 
 ## 1. Title
 **Onboarding Funnel, Retention & A/B Test Analysis for a Mobile Savings App**
-*Author: Gideon Sunday (Featz) · SQL (MySQL 8.0) · Python · Product Analytics*
+*Author: Gideon Sunday · SQL (MySQL 8.0) · Python · Product Analytics*
 
 ## 2. Executive Summary
 Of 49,275 real signups, only **44.4% complete KYC** and **29.1% fund their wallet**; KYC completion is the largest drop-off, losing about 16,500 users. Android users are hit hardest (53.6% KYC completion vs 63.1% on iOS). An A/B test of a redesigned onboarding flow lifted KYC completion by **+11.0 percentage points after adjusting for OS mix** (95% CI for the unadjusted estimate: +9.1 to +11.9 pp, p < 0.001) and 7-day activation by **+4.8 pp**, with the biggest gain on Android (+16.3 pp). **Recommendation: ship the new onboarding to all users, starting with Android.** Separately, paid social supplies 40% of signups but has the weakest activation (24.0%) and 30-day retention (10.4%), against 38.1% and 20.8% for referral.
