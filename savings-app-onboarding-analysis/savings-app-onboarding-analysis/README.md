@@ -31,7 +31,7 @@ Paid social also needs a closer look. It brings in the most signups (40%), but t
 
 **Pipeline**
 
-| Step | Tool | What was done and why |
+| Step | Tool | What was done |
 |---|---|---|
 | 1. Load | MySQL | Schema with keys and indexes; row counts checked against the source files |
 | 2. Clean | MySQL views | Excluded 725 test accounts; removed 3,320 duplicate events with `ROW_NUMBER()`; flagged 599 users with KYC completed before KYC started; built a one-row-per-user milestone view |
